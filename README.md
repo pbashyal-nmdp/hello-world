@@ -6,6 +6,6 @@ This GitHub is pretty cool.
 
 
 ## How to run this code ?
-sdfa
+Use Python
 
 # Links
